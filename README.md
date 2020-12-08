@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python!**
 
-- 📫 How to reach me: **noah@javamate.net**
+- 📫 How to reach me: **noahbroyles42@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
