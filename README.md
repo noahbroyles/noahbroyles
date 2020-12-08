@@ -1,4 +1,4 @@
-<h1 align="center">Yo 👋, I'm Noah</h1>
+<h1 align="center">Yo 👋, I'm Noah!</h1>
 <h3 align="center">I love programming! I like all sorts of languages. Love collaborating on projects! (when I'm not drowning in homework)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noahbroyles&label=Profile%20views&color=0e75b6&style=flat" alt="noahbroyles" /> </p>
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python!**
 
-- 📫 How to reach me **noah@javamate.net**
+- 📫 How to reach me: **noah@javamate.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
