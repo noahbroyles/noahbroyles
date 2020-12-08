@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **the finer points of Javascript, AWS Serverless**
 
-- 👯 I’m looking to collaborate on **an iOS app**
+- 👯 I’m looking to collaborate on **an iOS app**    
+
+- 🤝 I’m looking for help with **CSS!**
 
 - 💬 Ask me about **Python!**
 
