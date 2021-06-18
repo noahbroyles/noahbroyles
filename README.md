@@ -1,11 +1,8 @@
 <h1 align="center">Yo 👋, I'm Noah!</h1>
 <h3 align="center">I love programming! I like all sorts of languages. Love collaborating on projects! (when I'm not drowning in homework)</h3>
-<img src="https://user-images.githubusercontent.com/68494604/94645884-950ac780-030a-11eb-9c8f-40d9740fc6ad.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noahbroyles&label=Profile%20views&color=0e75b6&style=flat" alt="noahbroyles" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noahbroyles" alt="noahbroyles" /></a> </p>
-
+<img src="https://user-images.githubusercontent.com/68494604/94645884-950ac780-030a-11eb-9c8f-40d9740fc6ad.gif">
 - 🔭 I’m currently working on **a shift-subbing project**
 
 - 🌱 I’m currently learning **the finer points of Javascript, AWS Serverless**
