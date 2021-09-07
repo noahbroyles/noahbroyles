@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Noah!</h1>
-<h3 align="center">I love programming! I like all sorts of languages. Love collaborating on projects! (when I'm not drowning in homework)</h3>
+<h5 align="center">I love programming! I like all sorts of languages. Love collaborating on projects! (when I'm not drowning in homework)</h5>
 
 - 🔭 I’m currently working on <b>a shift-subbing project</b>
 
