@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Noah!</h1>
 <h5 align="center">I love programming! I like all sorts of languages. Love collaborating on projects! (when I'm not drowning in homework)</h5>
 
-- 🔭 I’m currently working on <b>a shift-subbing project</b>
+- 🔭 I’m currently working on <b>a music downloading project in AWS</b>
 
 - 🌱 I’m currently learning **the finer points of Javascript, AWS Serverless**
 
