@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **an iOS app**    
 
-- 🤝 I’m looking for help with **CSS!**
+- 🤝 I’m looking for help with **Github Actions**
 
 - 💬 Ask me about <b>Python!</b>
 
