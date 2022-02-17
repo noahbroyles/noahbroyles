@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Noah!</h1>
 <h5 align="center">I love programming! I like all sorts of languages. Love collaborating on stuff!</h5>
 
-- 🔭 I’m currently working on <b>a music downloading project in AWS</b>
+- 🔭 I’m currently working on <b>FedEx Shipping API integrations</b>
 
 - 🌱 I’m currently learning **the finer points of Javascript, AWS Serverless**
 
 - 👯 I’m looking to collaborate on **an iOS app**    
 
-- 🤝 I’m looking for help with **Github Actions**
+- 🤝 I’m looking for help with **Rust**
 
-- 💬 Ask me about <b>Python!</b>
+- 💬 Ask me about <b>Java!</b>
 
 - 📫 How to reach me: **noah@x3nzpouwu.com**
 
