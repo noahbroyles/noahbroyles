@@ -5,13 +5,15 @@
 
 - 🌱 I’m currently learning **Android Development with Java, CI/CD to AWS**
 
-- 👯 I’m looking to collaborate on **an iOS app**    
+- 👯 I’m looking to collaborate on **just about anything!**    
 
 - 🤝 I’m looking for help with **Rust**
 
 - 💬 Ask me about <b>Java!</b>
 
 - 📫 How to reach me: **noah@x3nzpouwu.com**
+
+I have so many project ideas and so little time to work on them. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
