@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Noah!</h1>
 <h5 align="center">I love programming! I like all sorts of languages. Love collaborating on stuff!</h5>
 
-- 🔭 I’m currently working on <b>FedEx Shipping API integrations</b>
+- 🔭 I’m currently working on <b>Shopify Custom Apps</b>
 
-- 🌱 I’m currently learning **the finer points of Javascript, AWS Serverless**
+- 🌱 I’m currently learning **Android Development with Java, CI/CD to AWS**
 
 - 👯 I’m looking to collaborate on **an iOS app**    
 
