@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <b>open source software</b>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **just about anything!**    
 
